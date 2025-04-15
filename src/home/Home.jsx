@@ -4,6 +4,7 @@ import Footer from '../components/Footer'
 import Banner from '../components/Banner'
 
 import ScrollTriggered from '../components/ScrollTriggered'
+import FeedbackCard from '../components/Feedbacks'
 function Home() {
   return (
     <div>
@@ -11,6 +12,7 @@ function Home() {
       <div className='min-h-screen'>
         <Banner/>
         <ScrollTriggered/>
+        <FeedbackCard/>
       </div>
 
       <Footer/>
