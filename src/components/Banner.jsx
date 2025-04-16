@@ -35,7 +35,6 @@ function Banner() {
         />
       </section>
 
-      <h1 className='font-bold text-xl mt-20'>Here are some adorable faces that will inspire you to join our campaign and make a difference together!</h1>
     </div>
   );
 }
