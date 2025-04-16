@@ -40,7 +40,7 @@ function Nav() {
 
       {/* CTA Button */}
       <div className="navbar-end">
-        <a className="btn bg-green-600 hover:bg-green-700 text-white font-semibold shadow-md transition-transform hover:scale-105" href='https://forms.visme.co/formsPlayer/vdzk3vgj-volunteer-registration-form' target='_blank'>
+        <a className="btn bg-green-600 hover:bg-green-700 text-white font-semibold shadow-md transition-transform hover:scale-105" href='https://forms.visme.co/formsPlayer/pvo67xqe-volunteer-registration-form' target='_blank'>
           Join Us
         </a>
       </div>
