@@ -17,7 +17,7 @@ function Banner() {
         {/* Buttons */}
         <div className="flex flex-wrap justify-center gap-4">
           
-          <a href='https://forms.visme.co/formsPlayer/pvo67xqe-volunteer-registration-form' target='_blank'>
+          <a href='https://forms.visme.co/formsPlayer/pvo67xqe-volunteer-registration-form'>
           <button className="bg-[#FFC107] hover:bg-[#e0aa05] text-white font-semibold py-2 px-6 rounded-full shadow-md transition-transform hover:scale-105">
             Volunteer Now
           </button>
